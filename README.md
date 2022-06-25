@@ -1,7 +1,7 @@
 ### 👋 Oláa pessoal! Me chamo Udson Wilams! 
-- 📚 Estudante De Sistemas para Internet <b>5/5</b>
-- 🔭 Hoje trabalho como Backend Python
-- 🌱 Estudando Python,Java,Selenium,Testes de API,Ingles
+- 📚 Tecnólogo em sistemas para internet
+- 🔭 Trabalhando como desenvolverdor python web
+- 🌱 Estudando Python, Java, Selenium, Testes de API, Ingles
 - 😄 Pronouns: Ele/Dele
 ##
 <div align="left">
