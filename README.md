@@ -1,7 +1,7 @@
 ### 👋 Oláa pessoal! Me chamo Udson Wilams! 
 - 📚 Tecnólogo em sistemas para internet
 - 🔭 Trabalhando como desenvolverdor python web
-- 🌱 Estudando Python, Java, Selenium, Testes de API, Ingles
+- 🌱 Aqui estudo Python, Java, Selenium, Testes de API, Ingles
 - 😄 Pronouns: Ele/Dele
 ##
 <div align="left">
