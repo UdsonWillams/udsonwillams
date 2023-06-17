@@ -1,15 +1,10 @@
-### 👋 Oláa pessoal! Me chamo Udson Wilams! 
+### Olá pessoal! Sou o Udson Wilams! 
 - 📚 Tecnólogo em sistemas para internet
-- 🔭 Trabalhando como desenvolverdor python web
-- 🌱 Aqui estudo Python, Java, Selenium, Testes de API, Ingles
+- 🔭 Trabalhando como desenvolverdor python (Django, Flask, FastAPi)
+- 🌱 Aqui estudo Python, Java, Selenium, Testes de API, e tento melhorar meu inglês
 - 😄 Pronouns: Ele/Dele
 ##
-<div align="left">
-  <a href="https://github.com/UdsonWillams">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udsonwillams&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udsonwillams&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
+
 ## Linguagens e Ferramentas
   
  <div style="display: inline_block"><br>
