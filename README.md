@@ -1,15 +1,19 @@
-### Olá pessoal! Sou o Udson Wilams! 
-- 📚 Tecnólogo em sistemas para internet
-- 🔭 Trabalhando como desenvolverdor python (Django, Flask, FastAPi)
-- 🌱 Aqui estudo Python, Java, Selenium, Testes de API, e tento melhorar meu inglês
-- 😄 Pronouns: Ele/Dele
+### Olá pessoal!
+- 📚 Técnico em informatica e Graduado em sistemas para internet
+- 🔭 Hoje trabalho como desenvolverdor python com os frameworks FastApi, Django e um pouco de Flask. 
+- 🌱 Aqui subo projetos de estudo em diversas aréas como:
+  - Python, Java, JavaScript, Testes automatizados de API, Também venho tentando melhorar meu inglês ⤴️
+- 😄 Ele/Dele
 ##
 
 ## Linguagens e Ferramentas
-  
+
  <div style="display: inline_block"><br>
   <img align="center" alt="uds-python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="uds-python-django" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+  <img align="center" alt="uds-python-fastapi" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
   <img align="center" alt="uds-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="uds-js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="uds-selenium" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img align="center" alt="uds-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="uds-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
