@@ -47,7 +47,7 @@
     </tr>
 </table>
 
-### Ferramentas "avulsas"
+### Outras Ferramentas
 <table>
   <tr>
     <td align="center" width="96">
