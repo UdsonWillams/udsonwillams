@@ -5,7 +5,7 @@
 - <p>🌱 Aqui subo projetos de estudo em diversas aréas como:  <b>Python, Java, JavaScript, GO, Testes automatizados e inglês</b></p>
 - <p>😄 Ele/Dele</p>
 
-## Linguagens e Ferramentas
+## Linguagens e Ferramentas:
 <table>
   <tr>
     <td align="center" width="96">
@@ -47,7 +47,7 @@
     </tr>
 </table>
 
-### Outras Ferramentas
+### Outras Ferramentas:
 <table>
   <tr>
     <td align="center" width="96">
