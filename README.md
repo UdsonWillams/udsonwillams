@@ -9,15 +9,15 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="48" height="48" alt="uds-python" />
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="uds-python" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="uds-django" />
+        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="uds-django" />
       <br>Django
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="uds-fastapi" />
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="uds-fastapi" />
       <br>FastApi
     </td>
   </tr>
@@ -25,11 +25,11 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="48" height="48" alt="uds-java" />
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="uds-java" />
       <br>Java
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="48" height="48" alt="uds-js" />
+        <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="uds-springboot" />
       <br>Spring
     </td>
     </tr>
@@ -37,47 +37,59 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="uds-js" />
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="uds-js" />
       <br>JS
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="uds-js" />
-      <br>Node JS
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="uds-nodejs" />
+      <br>Node js
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="uds-nexjs" />
+      <br>Node js
     </td>
     </tr>
 </table>
 <table>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="uds-js" />
-      <br>GO
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="uds-go" />
+      <br>Go
+    </td>
+  <td align="center" width="96">
+        <img src="https://github.com/gin-gonic/logo/blob/master/color.svg" width="48" height="48" alt="uds-gogin" />
+      <br>Gin
     </td>
 </table>
 
 ### Outras Ferramentas:
 <table>
-  <tr>
+  <tr>    
     <td align="center" width="96">
-        <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/robotframework_icon_132027.png" width="48" height="48" alt="uds-js" />
-      <br>Robot Framework
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="uds-js" />
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="uds-js" />
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="48" height="48" alt="uds-js" />
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="uds-js" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="uds-js" />
       <br>GCP
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="uds-js" />
+        <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/robotframework_icon_132027.png" width="48" height="48" alt="uds-js" />
+      <br>Robot
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="uds-js" />
       <br>Postgress
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="uds-js" />
+        <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="uds-js" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redis/redis-original-wordmark.svg" width="48" height="48" alt="uds-js" />
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="uds-js" />
       <br>Redis
     </td>
     </tr>
