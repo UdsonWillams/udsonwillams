@@ -46,7 +46,7 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="uds-nexjs" />
-      <br>Node js
+      <br>Next js
     </td>
     </tr>
 </table>
