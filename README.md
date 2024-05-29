@@ -44,10 +44,10 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="uds-nodejs" />
       <br>Node js
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="uds-nexjs" />
       <br>Next js
-    </td>
+    </td> -->
     </tr>
 </table>
 <table>
